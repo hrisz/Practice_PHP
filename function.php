@@ -14,7 +14,7 @@
         $hasil=$a+$b;
         return $hasil;
     }
-    echo ("4 + 3 = ".hitung(4,3));
+    echo ("4 + 3 = ".$hitung(4,3));
     ?>
 </body>
 </html>
